@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+}
+
+.row{
+    gap: 20px;
+}
+
+.card-img-overlay{
+    top:230px; 
+    left:200px;
+}
+
+.card-img-overlay img{
+    width: 100%; 
+    height: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
