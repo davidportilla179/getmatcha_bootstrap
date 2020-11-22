@@ -2,18 +2,27 @@ ul{
     list-style: none;
 }
 
-.row{
-    gap: 20px;
-}
-
-.card-img-overlay{
+.overlay-study{
     top:230px; 
     left:200px;
 }
 
-.card-img-overlay img{
+.overlay-study-img{
     width: 100%; 
     height: auto;
     padding: 5px;
     border-radius: 10px;
+}
+
+.text-matcha{
+    color:  #025157;
+}
+
+.bg-matcha{
+    background-color: #025157;
+}
+
+.btn-matcha{
+    color: white;
+    background-color: #025157;
 }
